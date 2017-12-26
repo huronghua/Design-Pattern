@@ -5,7 +5,7 @@ road study strategy
 ## 一、特点描述 ##
 - [策略模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/strategy_pattern "策略模式")
 - [观察者模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/observer_pattern "观察者模式")
-- [装饰者模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/decorator_pattern "装饰者模式")
+- [装饰者模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/decorator_pattern "装饰者模式")：加入包装对象的新特性和方法
 - [工厂模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/factory_pattern "工厂模式")
 - [单例模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/singleton_pattern "单例模式")
 - [命令模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/command_pattern "命令模式")
