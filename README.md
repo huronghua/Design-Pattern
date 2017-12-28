@@ -1,6 +1,6 @@
 # Design-Pattern
-road study strategy
-# 设计模式学个人总结 #
+road study strategy:octocat:
+# 设计模式学个人总结:smile:
 > 写在前面：正在读HeadFirst的设计模式，对于设计模式的理解还停留在从零到一的层面，仓库中的代码是按照书上的例子加上一些自己的理解写出来的，难免会有一些错误和理解不到位的地方，如果有幸你能看到，一起学习或者有一些更加深刻的理解，欢迎提出批评和指正。
 ## 一、特点描述 ##
 - [策略模式](https://github.com/huronghua/Design-Pattern/tree/master/src/main/java/com/github/eric/strategy/strategy_pattern "策略模式")
