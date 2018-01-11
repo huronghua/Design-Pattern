@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:localhost:3306/banma_dev
+    name: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
