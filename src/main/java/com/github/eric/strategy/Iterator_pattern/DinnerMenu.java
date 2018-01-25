@@ -13,6 +13,7 @@ public class DinnerMenu {
 
     /*包含一个创建迭代器的方法，来拿到这个具体对象的iterator*/
     public Iterator createIterator(){
+        /*这里可以自己实现迭代器，也可以直接利用对象已有的迭代器（如果有的话）*/
         return new DinnerMenuIterator(menuItems);
     }
 }
